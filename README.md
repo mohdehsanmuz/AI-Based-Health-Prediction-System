@@ -94,4 +94,4 @@ Add screenshots inside the screenshots folder.
 ## Author
 
 Mohd Ehsan Muzammil
-ECE, Methodist College of Engineering and Technology
+
